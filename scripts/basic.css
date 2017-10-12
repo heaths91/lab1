@@ -1,0 +1,46 @@
+body {
+    background-color: #747c75;
+    font-family:"Times-New Roman"; 
+   font-weight: 300;
+   text-align: left;
+}
+
+h1 {
+    color: blue;
+    text-align: left;
+}
+
+p {
+    
+    font-family: "Times-New Roman"; 
+   font-weight: 300;
+    text-align: left;
+    color: black;
+    font-size: 25px;
+}
+ul#menu {
+    padding: 0;
+    margin-bottom: 11px;
+    text-align: center;
+}
+
+ul#menu li {
+    display: inline;
+    margin-right: 3px;
+    text-align: center;
+}
+
+ul#menu li a {
+    background-color: #88CC88;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #000000;
+    border-radius: 4px 4px 0 0;
+    text-align: center;
+}
+
+ul#menu li a:hover {
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
